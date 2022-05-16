@@ -6,16 +6,16 @@ The purpose of this analysis was to help a fictional character to determine cert
 ## Results
 The output of this module challenge was a set of csv files that contain the information requested by Pewlett Hackard. The files listed below:
 
-#### Retirement eligible employees and their titles
+* Retirement eligible employees and their titles
 [retirement_titles.csv](https://github.com/michaeljennings7/Pewlett_Hackard_Analysis/files/8696616/retirement_titles.csv)
 
-#### A subset of the file above that finds just the unique employees eligible for retirement and their titles
+* A subset of the file above that finds just the unique employees eligible for retirement and their titles
 [unique_titles.csv](https://github.com/michaeljennings7/Pewlett_Hackard_Analysis/files/8696625/unique_titles.csv)
 
-#### The number of employees retiring sorted by their titles
+* The number of employees retiring sorted by their titles
 [retiring_titles.csv](https://github.com/michaeljennings7/Pewlett_Hackard_Analysis/files/8696628/retiring_titles.csv)
 
-#### The employees eligible for the Mentorship Program
+* The employees eligible for the Mentorship Program
 [mentorship_eligibility.csv](https://github.com/michaeljennings7/Pewlett_Hackard_Analysis/files/8696634/mentorship_eligibility.csv)
 
 ## Summary
